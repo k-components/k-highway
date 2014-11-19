@@ -1,5 +1,5 @@
 {
-  "name": "racer-highway",
+  "name": "k-highway",
   "description": "Websocket and browserchannel transport for Racer",
   "version": "1.5.0",
   "main": "./lib/server.js",
@@ -23,10 +23,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/derbyparty/racer-highway.git"
+    "url": "git://github.com/kantele/k-highway.git"
   },
   "bugs": {
-    "url": "https://github.com/derbyparty/racer-highway/issues"
+    "url": "https://github.com/kantele/k-highway/issues"
   },
   "author": "Artur Zayats <zag2art@gmail.com>",
   "license": "MIT"
