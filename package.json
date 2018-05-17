@@ -1,16 +1,16 @@
 {
   "name": "k-highway",
   "description": "Websocket and browserchannel transport for Racer",
-  "version": "9.0.0",
+  "version": "9.0.1",
   "main": "./lib/server",
   "browser": {
     "main": "./lib/browser"
   },
   "dependencies": {
     "browserchannel": "git://github.com/josephg/node-browserchannel.git",
-    "extend": "*",
-    "through": "*",
-    "ws": "*"
+    "extend": "^2.0.0",
+    "through": "^2.3.4",
+    "ws": "^2.3.1"
   },
   "devDependencies": {},
   "optionalDependencies": {},
