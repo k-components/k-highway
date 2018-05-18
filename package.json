@@ -1,7 +1,7 @@
 {
   "name": "k-highway",
   "description": "Websocket and browserchannel transport for Racer",
-  "version": "9.0.1",
+  "version": "9.0.2",
   "main": "./lib/server",
   "browser": {
     "main": "./lib/browser"
